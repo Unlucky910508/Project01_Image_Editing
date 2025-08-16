@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/CMakeLists.txt
+  libtarga.c
+C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\libtarga.c(216,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\libtarga.c(517,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\libtarga.c(663,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  libtarga.vcxproj -> C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\build\Debug\libtarga.lib

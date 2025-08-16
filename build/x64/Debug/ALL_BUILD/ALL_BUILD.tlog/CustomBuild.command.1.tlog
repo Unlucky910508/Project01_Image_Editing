@@ -1,0 +1,10 @@
+^C:\USERS\LUCKY\ONEDRIVE\桌面\UNIVERITTY\JUNIOR_FIRST\INTORDUCETOCOMPUTERGRAPHICS\PROJECT01\PROJECT01_IMAGE_EDITING\IMAGEEDITING-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master -BC:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/build --check-stamp-file C:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

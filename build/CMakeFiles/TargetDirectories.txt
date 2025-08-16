@@ -1,0 +1,4 @@
+C:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/build/CMakeFiles/ImageEditing.dir
+C:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/build/CMakeFiles/libtarga.dir
+C:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lucky/OneDrive/桌面/Univeritty/Junior_First/IntorduceToComputerGraphics/Project01/Project01_Image_Editing/ImageEditing-master/build/CMakeFiles/ZERO_CHECK.dir

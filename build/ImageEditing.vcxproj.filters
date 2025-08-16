@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\ImageWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\ScriptHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\TargaImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\Globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\Globals.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\ImageWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\ScriptHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\src\TargaImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucky\OneDrive\桌面\Univeritty\Junior_First\IntorduceToComputerGraphics\Project01\Project01_Image_Editing\ImageEditing-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5CAA1F8E-B5BB-3079-9315-BA6FCB782E93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6AAF037C-7101-3F12-A188-9365B485F913}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
